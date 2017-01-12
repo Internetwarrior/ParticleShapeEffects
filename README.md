@@ -21,3 +21,8 @@ Filled:
 https://i.gyazo.com/30e9061e805393901725df920afe6e8d.png
 
 It currently has no validation whether or not the triangle is a regular triangle such as the example above, leading to some interesting creations when given the parametres.
+
+To be implemented into a real world plugin it requires:
+
+ - Allow for Z or X rather than just Z.
+ - Calculate whether the Z/X should be increased or deducted to travel from one vertex to another.
