@@ -6,7 +6,9 @@ Vertex 1: (x=0, y=0, z=0)
 Vertex 2: (x=0, y=1, z=0)
 Vertex 3: (x=0, y=1, z=1)
 
-By selecting locations in the Minecraft environment and then choose whether triangle should be filled or not.
+All triangles are treated in such a manner and therefore will only use the Y and Z co-ordinates and assume all X co-ordinates are the same in accordance to the example given.
+
+By selecting locations in the Minecraft environment and then choose whether triangle should be filled or not. 
 
 Example:
 
