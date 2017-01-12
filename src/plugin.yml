@@ -1,0 +1,4 @@
+name: ParticleShapeEffects
+main: com.isles.seffect.main.ShapeEffectPlugin
+version: 1.0
+commands:
