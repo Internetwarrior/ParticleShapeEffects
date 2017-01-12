@@ -11,7 +11,7 @@ import java.util.Comparator;
 * @author Liam Everton
 */
 
-/*
+/**
  * Triangle Class implements the interface Shape in order to standardize it's structure.
  * This class handles generating the sides, vertices to create a triangle as well as filling the generated triangle.
  */
@@ -33,7 +33,7 @@ public class Triangle implements Shape {
 
     private Comparator<Location> sortByZ = (new Comparator<Location>() {
         public int compare(Location v1, Location v2) {
-            return ((int) (v1.getY() - v2.getY()));
+            return ((int) (v1.getZ() - v2.getZ()));
         }
     });
 
