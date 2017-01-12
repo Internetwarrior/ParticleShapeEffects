@@ -1,0 +1,21 @@
+This project has been created during my interview at isles.io. This a Spigot plugin developed and written using the Spigot 1.11 API version and therefore may use methods which may have been deprecated or non-existant in other copies.
+
+This plugin allows for a user to create a triangle such as this:
+
+Vertex 1: (x=0, y=0, z=0)
+Vertex 2: (x=0, y=1, z=0)
+Vertex 3: (x=0, y=1, z=1)
+
+By selecting locations in the Minecraft environment and then choose whether triangle should be filled or not.
+
+Example:
+
+Non-Filled:
+
+https://i.gyazo.com/b538a50dedc9ee5c05d50ef12871e3eb.png#
+
+Filled:
+
+https://i.gyazo.com/30e9061e805393901725df920afe6e8d.png
+
+It currently has no validation whether or not the triangle is a regular triangle such as the example above, leading to some interesting creations when given the parametres.
