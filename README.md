@@ -1,6 +1,6 @@
-This project has been created during my interview at isles.io. This a Spigot plugin developed and written using the Spigot 1.11 API version and therefore may use methods which may have been deprecated or non-existant in other copies.
+This project has been created during my interview at isles.io. This a Spigot plugin developed and written using the Spigot 1.11 API version and therefore may use methods which may have been deprecated or non-existant in other copies. The project was created using requirements given by the isles.io team.
 
-This plugin allows for a user to create a triangle such as this:
+The plugin allows for a user to create a triangle such as this:
 
 Vertex 1: (x=0, y=0, z=0)
 Vertex 2: (x=0, y=1, z=0)
