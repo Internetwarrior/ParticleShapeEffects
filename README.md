@@ -1,4 +1,4 @@
-This project has been created during my applicant process at isles.io. This a Spigot plugin developed and written using the Spigot 1.11 API version and therefore may use methods which may have been deprecated or non-existant in other copies. The project was created using requirements given by the isles.io team.
+This a Spigot plugin developed and written using the Spigot 1.11 API version and therefore may use methods which may have been deprecated or non-existant in other copies. The project was created using requirements given by the isles.io team.
 
 The plugin allows for a user to create a triangle such as this:
 
